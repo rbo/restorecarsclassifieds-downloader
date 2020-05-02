@@ -17,3 +17,8 @@ Requirements:
 ```
 ./_books.sh
 ```
+
+## Broken pages
+
+ - id [10320](http://restorecarsclassifieds.com/wiki/show_pdf.pdf?n=10320)
+ - id [13232](http://restorecarsclassifieds.com/wiki/show_pdf.pdf?n=13232)
